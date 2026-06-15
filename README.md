@@ -303,3 +303,29 @@ if __name__ == "__main__":
 ---
 
 ## Задание 4. Визуализация в DataLens.
+
+Создаю соединения s3 с Yandex Query, чтобы потом легко интегрировать результаты в DataLens
+
+<img width="1396" height="985" alt="image" src="https://github.com/user-attachments/assets/5e52ce8a-77a3-4639-bf09-539edad5c7a0" />
+
+<img width="395" height="296" alt="image" src="https://github.com/user-attachments/assets/d8db995b-8bfe-4caa-99c0-7a4ada202f4b" />
+
+Создаю непосредственное подключение между YQ и Datalens:
+
+<img width="743" height="531" alt="image" src="https://github.com/user-attachments/assets/05ac8ecd-f360-4e28-a08b-ba78f2a76d27" />
+
+<img width="1716" height="850" alt="image" src="https://github.com/user-attachments/assets/51ee3307-8a36-47eb-8289-2f6782af4a13" />
+
+Примеры чартов:
+
+<img width="1734" height="967" alt="image" src="https://github.com/user-attachments/assets/c7c66f75-f500-4cc6-badb-257bd4b1859e" />
+
+<img width="1732" height="980" alt="image" src="https://github.com/user-attachments/assets/298517cb-f88f-4ef3-a438-8a3c22256c2b" />
+
+<img width="1722" height="538" alt="image" src="https://github.com/user-attachments/assets/767ef27d-199d-49ad-b367-68a49f75c039" />
+
+Итоговый дашборд:
+
+<img width="1721" height="961" alt="image" src="https://github.com/user-attachments/assets/063fd578-9b7c-42f6-a654-7ad8922d9c70" />
+
+
